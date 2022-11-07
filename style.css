@@ -206,6 +206,6 @@ input{
 }
 @media(max-width: 760px) {
     .close_window{
-      display: flex;
+      display: none;
     }
 }
